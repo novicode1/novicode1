@@ -1,6 +1,4 @@
-# Hello World! 👾
-
-## About Me 
+# About Me
 ✔️ Contributed to apps with 200M downloads.
 ✔️ 6 years of experience as a Front-end Developer
 ✔️ Last 4 roles in product-based companies.
