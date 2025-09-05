@@ -1,10 +1,10 @@
 # About Me
-✔️ Contributed to apps with 200M downloads.
-✔️ 6 years of experience as a Front-end Developer
-✔️ Last 4 roles in product-based companies.
+✔️ Contributed to apps with 200M downloads.<br>
+✔️ 6 years of experience as a Front-end Developer<br>
+✔️ Last 4 roles in product-based companies.<br>
 
 ## Achievements
-⭐ Designed the Homepage of https://pdfexpert.com/
+⭐ Designed the Homepage of https://pdfexpert.com/<br>
 ⭐ Designed the Homepage of https://sparkmailapp.com/
 
 ### Stack
